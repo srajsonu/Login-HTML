@@ -17,6 +17,7 @@ body{
   transform: translate(182%,-50%);
   box-sizing: border-box;
   padding: 50px 40px;
+  border-radius: 10px;
 }
 .avatar{
   width: 80px;
